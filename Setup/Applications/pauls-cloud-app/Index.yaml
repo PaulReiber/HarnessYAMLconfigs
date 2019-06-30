@@ -1,0 +1,3 @@
+harnessApiVersion: '1.0'
+type: APPLICATION
+description: My first Harness-based cloud app spin-up
