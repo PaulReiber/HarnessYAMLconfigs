@@ -1,0 +1,4 @@
+harnessApiVersion: '1.0'
+type: ENVIRONMENT
+description: Pauls GCP Kubernetes personal testbed
+environmentType: NON_PROD
